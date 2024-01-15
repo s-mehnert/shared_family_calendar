@@ -214,9 +214,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Sonja Mehnert - [Website](https://s-mehnert.github.io/) - [LinkedIn](www.linkedin.com/in/smehnert)
+Sonja Mehnert - [Website](https://s-mehnert.github.io/) - [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project Link: [https://github.com/s-mehnert/shared_family_calendar](https://github.com/s-mehnert/shared_family_calendar)
+Project Link: [Shared Family Calendar](https://github.com/s-mehnert/shared_family_calendar)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -249,7 +249,7 @@ Project Link: [https://github.com/s-mehnert/shared_family_calendar](https://gith
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/smehnert
 [product-screenshot]: images/screenshot.png
-[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow
+[Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://www.python.org
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
